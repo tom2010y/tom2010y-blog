@@ -5,24 +5,3 @@
     width: 70px;
     margin: 8px auto;
 }
-<center>
-    <section id="Campus life" style="width: 100%;">
-        <h1>Campus life</h1>
-        <div class="Campus life"></div>
-        <iframe class="Campus life" height="1000" src="https://www.islyon.org/who-we-are/our-campus/" frameborder="0" style="width: 80%; margin: 10px;"></iframe>
-    </section>
-</center>
-<center>
-    <section id="Achievements" style="width: 100%;">
-        <h1>Achievements</h1>
-        <div class="Achievements"></div>
-        <iframe class="Achievements" height="1000" src="https://www.islyon.org/2022/03/05/2022-poetry-slam/" frameborder="0" style="width: 80%; margin: 10px;"></iframe>
-    </section>
-</center>    
-<center>
-    <section id="What's new" style="width: 100%;">
-        <h1>What's new</h1>
-        <div class="What's new"></div>
-        <h5></h5>
-    </section>
-</center>
